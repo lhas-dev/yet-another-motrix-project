@@ -11,5 +11,8 @@
   "private": true,
   "devDependencies": {
     "lerna": "^6.1.0"
+  },
+  "scripts": {
+    "dev": "npx lerna run dev"
   }
 }
